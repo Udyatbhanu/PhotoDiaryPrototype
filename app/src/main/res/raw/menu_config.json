@@ -1,0 +1,22 @@
+{"MenuItems": {
+  "option1": {
+    "title": "Home",
+    "fragment": "com.home.ubbs.photodiary.ui.fragments.HomeListFragment"
+  },
+  "option2": {
+    "title": "New",
+    "fragment": "com.home.ubbs.photodiary.ui.fragments.NewFragment"
+  },
+  "option3": {
+    "title": "Gallery",
+    "fragment": "com.home.ubbs.photodiary.ui.fragments.ComingSoonFragment"
+  },
+  "option4": {
+    "title": "Settings",
+    "fragment": "com.home.ubbs.photodiary.ui.fragments.ComingSoonFragment"
+  },
+  "option5": {
+    "title": "Feedback",
+    "fragment": "com.home.ubbs.photodiary.ui.fragments.ComingSoonFragment"
+  }
+}}

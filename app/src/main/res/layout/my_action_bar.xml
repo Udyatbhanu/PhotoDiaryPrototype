@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/back_button"
+        android:layout_height="50dp"
+        android:layout_width="30dp"
+
+        android:paddingTop="5dp"
+        android:background="@null"
+        android:scaleType="centerInside"
+        android:src="@drawable/back" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:paddingTop="15dp"
+        android:text="Photo Diary"
+        android:textSize="20dp"
+        android:paddingLeft="20dp"
+        android:layout_toRightOf="@+id/back_button"/>
+</RelativeLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Photo Diary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="coming_soon_text">Coming Soon..!!</string>
+
+    <!-- New Fragment-->
+    <string name="new_fragment_title">Title</string>
+    <string name="new_fragment_location">Location</string>
+    <string name="new_fragment_description">Description</string>
+    <string name="new_fragment_create">Create</string>
+
+    <!-- Home List Fragment-->
+
+    <string name="home_list_fragment_description">Description</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="action_camera">Click it</string>
+
+</resources>
